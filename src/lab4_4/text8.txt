@@ -1,0 +1,4 @@
+car train plane
+ticket coffee tea icecream
+scooter rollers sun
+tank bike
